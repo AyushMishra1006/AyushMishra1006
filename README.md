@@ -8,9 +8,9 @@
 Passionate Python developer and AI enthusiast. I build AI-powered tools, data-driven applications, and practical ML solutions, focused on creating real-world impact and intuitive user experiences.
 </h3>
 
-<!-- Coding GIF -->
+<!-- GIF -->
 <p align="center">
-  <img src=![giphy](https://github.com/user-attachments/assets/1e07a5c8-2047-40fa-a312-d6ad5d201507)
+  <img src="https://github.com/user-attachments/assets/25a75795-e322-48df-886e-d612a7dbc073" alt="fun GIF" width="250"/>
 </p>
 
 - 🔭 I’m currently working on [DocMind-AI-Powered-PDF-Summarizer](https://github.com/AyushMishra1006/DocMind-AI-Powered-PDF-Summarizer)
@@ -47,8 +47,3 @@ Passionate Python developer and AI enthusiast. I build AI-powered tools, data-dr
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmishra1006&show_icons=true&locale=en&layout=compact" alt="ayushmishra1006" />
 </p>
-
-
-![giphy](https://github.com/user-attachments/assets/25a75795-e322-48df-886e-d612a7dbc073)
-
-
