@@ -1,24 +1,29 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
+<h1 align="center">
+  <span style="background-color:#FF4C4C; color:white; padding:10px 20px; border-radius:10px;">
+    Hi 👋, I'm Ayush
+  </span>
+</h1>
+
 <h3 align="center">
 Passionate Python developer and AI enthusiast. I build AI-powered tools, data-driven applications, and practical ML solutions, focused on creating real-world impact and intuitive user experiences.
 </h3>
 
 <!-- Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/KVr0JbrdBp9KX644Bk/giphy.gif" alt="coding gif" width="300"/>
+  <img src="https://media.giphy.com/media/KVr0JbrdBp9KX644Bk/giphy.gif" alt="coding gif" width="350"/>
 </p>
 
 - 🔭 I’m currently working on [DocMind-AI-Powered-PDF-Summarizer](https://github.com/AyushMishra1006/DocMind-AI-Powered-PDF-Summarizer)
 
-- 🌱 I’m currently learning **Python LangChain & RAG (Retrieval-Augmented Generation) Large Language Models (LLMs) – e.g., Google Gemini, HuggingFace Transformers Machine Learning Frameworks – scikit-learn, TensorFlow, PyTorch, Keras Data Visualization & Analytics – Power BI, Plotly, Matplotlib, Seaborn SQL & Database Management Cloud Platforms & Deployment – Google Cloud Platform (GCP)**
+- 🌱 I’m currently learning **Python, LangChain & RAG (Retrieval-Augmented Generation) Large Language Models (LLMs) – e.g., Google Gemini, HuggingFace Transformers, scikit-learn, TensorFlow, PyTorch, Keras; Data Visualization – Power BI, Plotly, Matplotlib, Seaborn; SQL & Databases; Cloud – Google Cloud Platform (GCP)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AyushMishra1006](https://github.com/AyushMishra1006)
 
-- 📫 How to reach me **ayushmishra0605@gmail.com**
+- 📫 How to reach me: **ayushmishra0605@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-mishra-857123304/" target="blank">
+  <a href="https://linkedin.com/in/ayush-mishra-857123304" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
