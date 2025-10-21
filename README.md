@@ -1,58 +1,93 @@
-<h1 align="center" style="font-size:3em; color:#ff6f61; animation:fadeIn 2s ease-in;">Hi 👋, I'm <span style="color:#4db8ff;">Ayush</span></h1>
-
-<h3 align="center" style="color:#ffd700; animation:fadeIn 3s ease-in;">Passionate Python developer & AI enthusiast. I build AI-powered tools, data-driven applications, and practical ML solutions.</h3>
-
+<!-- Hero GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250" style="border-radius:15px; animation:fadeIn 4s ease-in;">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" style="border-radius:15px;">
 </p>
 
-<hr style="border:1px solid #ff6f61;">
+<!-- Typing Effect for Name & Intro -->
+<h1 align="center">
+  <span class="typing">Hi 👋, I'm Ayush</span>
+</h1>
+<h3 align="center">
+  <span class="typing">Passionate Python developer & AI enthusiast. I build AI-powered tools & ML solutions.</span>
+</h3>
 
-<h2 style="color:#4db8ff; animation:fadeIn 2s ease-in;">🔭 Currently Working On</h2>
-<p style="animation:fadeIn 2.5s ease-in;">
-  <a href="https://github.com/AyushMishra1006/DocMind-AI-Powered-PDF-Summarizer" style="color:#ffd700;">DocMind-AI-Powered-PDF-Summarizer</a> – AI-powered PDF summary tool
+<hr style="border:1px solid #4db8ff;">
+
+<!-- Gradient Section Headings -->
+<h2 style="background: linear-gradient(90deg, #ff6f61, #ffd700, #4db8ff); -webkit-background-clip: text; color: transparent;">
+🔭 Currently Working On
+</h2>
+<p>
+  <a href="https://github.com/AyushMishra1006/DocMind-AI-Powered-PDF-Summarizer" style="color:#ff6f61; font-weight:bold;">
+    DocMind-AI-Powered-PDF-Summarizer
+  </a> – AI-powered PDF summary tool
 </p>
 
-<h2 style="color:#4db8ff; animation:fadeIn 3s ease-in;">🌱 Currently Learning</h2>
-<p style="animation:fadeIn 3.5s ease-in;">
+<h2 style="background: linear-gradient(90deg, #ff6f61, #ffd700, #4db8ff); -webkit-background-clip: text; color: transparent;">
+🌱 Currently Learning
+</h2>
+<p>
 Python LangChain, RAG LLMs (Google Gemini, HuggingFace), ML Frameworks (scikit-learn, TensorFlow, PyTorch, Keras), Data Viz (Power BI, Plotly, Seaborn), SQL, Cloud (GCP)
 </p>
 
-<h2 style="color:#4db8ff; animation:fadeIn 4s ease-in;">👨‍💻 Projects</h2>
-<p style="animation:fadeIn 4.5s ease-in;">Check all my projects: <a href="https://github.com/AyushMishra1006" style="color:#ffd700;">GitHub Profile</a></p>
+<h2 style="background: linear-gradient(90deg, #ff6f61, #ffd700, #4db8ff); -webkit-background-clip: text; color: transparent;">
+👨‍💻 Projects
+</h2>
+<p>Check all my projects: <a href="https://github.com/AyushMishra1006" style="color:#4db8ff; font-weight:bold;">GitHub Profile</a></p>
 
-<h2 style="color:#4db8ff; animation:fadeIn 5s ease-in;">📫 Contact Me</h2>
-<p style="animation:fadeIn 5.5s ease-in;">
-  Email: <b>ayushmishra0605@gmail.com</b><br>
-  LinkedIn: <a href="https://linkedin.com/in/ayush-mishra-857123304/" style="color:#ffd700;">Ayush Mishra</a>
+<h2 style="background: linear-gradient(90deg, #ff6f61, #ffd700, #4db8ff); -webkit-background-clip: text; color: transparent;">
+📫 Contact Me
+</h2>
+<p>
+Email: <b>ayushmishra0605@gmail.com</b><br>
+LinkedIn: <a href="https://linkedin.com/in/ayush-mishra-857123304/" style="color:#ff6f61; font-weight:bold;">Ayush Mishra</a>
 </p>
 
-<h2 style="color:#4db8ff; animation:fadeIn 6s ease-in;">🛠️ Languages & Tools</h2>
-<p style="animation:fadeIn 6.5s ease-in;">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/PyTorch-EF4C4C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<h2 style="background: linear-gradient(90deg, #ff6f61, #ffd700, #4db8ff); -webkit-background-clip: text; color: transparent;">
+🛠️ Languages & Tools
+</h2>
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/PyTorch-EF4C4C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-77ACF1?style=for-the-badge&logo=seaborn&logoColor=white" />
 </p>
 
-<h2 style="color:#4db8ff; animation:fadeIn 7s ease-in;">📊 GitHub Stats</h2>
-<p align="center" style="animation:fadeIn 7.5s ease-in;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmishra1006&show_icons=true&layout=compact&theme=radical" />
+<h2 style="background: linear-gradient(90deg, #ff6f61, #ffd700, #4db8ff); -webkit-background-clip: text; color: transparent;">
+📊 GitHub Stats
+</h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmishra1006&show_icons=true&layout=compact&theme=radical" />
 </p>
 
-<h2 style="color:#4db8ff; animation:fadeIn 8s ease-in;">🎮 Fun Section</h2>
-<p style="animation:fadeIn 8.5s ease-in;">
-Try my mini Python game here: <a href="https://replit.com/@AyushMishra1006" style="color:#ffd700;">Snake Game</a>
+<h2 style="background: linear-gradient(90deg, #ff6f61, #ffd700, #4db8ff); -webkit-background-clip: text; color: transparent;">
+🎮 Fun Section
+</h2>
+<p>
+Try my mini Python game here: <a href="https://replit.com/@AyushMishra1006" style="color:#4db8ff; font-weight:bold;">Snake Game</a>
 </p>
 
-<!-- Animation CSS -->
+<!-- Typing Animation CSS -->
 <style>
-@keyframes fadeIn {
-  0% {opacity:0; transform: translateY(20px);}
-  100% {opacity:1; transform: translateY(0);}
+.typing {
+  border-right: .15em solid #ff6f61;
+  white-space: nowrap;
+  overflow: hidden;
+  display: inline-block;
+  animation: typing 3s steps(40, end), blink .75s step-end infinite;
+  font-size: 2em;
+  font-weight: bold;
+  color: #4db8ff;
 }
-h1,h2,h3,p,img {
-  animation-fill-mode: forwards;
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes blink {
+  from, to { border-color: transparent }
+  50% { border-color: #ff6f61; }
 }
 </style>
