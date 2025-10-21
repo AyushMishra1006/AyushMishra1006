@@ -10,7 +10,7 @@ Passionate Python developer and AI enthusiast. I build AI-powered tools, data-dr
 
 <!-- Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/KVr0JbrdBp9KX644Bk/giphy.gif" alt="coding gif" width="350"/>
+  <img src="[https://media.giphy.com/media/KVr0JbrdBp9KX644Bk](https://giphy.com/gifs/FindSatoshiLab-fsl-stepn-go-KVr0JbrdBp9KX644Bk)/giphy.gif" alt="coding gif" width="350"/>
 </p>
 
 - 🔭 I’m currently working on [DocMind-AI-Powered-PDF-Summarizer](https://github.com/AyushMishra1006/DocMind-AI-Powered-PDF-Summarizer)
