@@ -1,93 +1,20 @@
-<!-- Hero GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" style="border-radius:15px;">
+<h1 align="center">Hi 👋, I'm Ayush</h1>
+<h3 align="center">Passionate Python developer and AI enthusiast. I build AI-powered tools, data-driven applications, and practical ML solutions, focused on creating real-world impact and intuitive user experiences.</h3>
+
+- 🔭 I’m currently working on [DocMind-AI-Powered-PDF-Summarizer](https://github.com/AyushMishra1006/DocMind-AI-Powered-PDF-Summarizer)
+
+- 🌱 I’m currently learning **Python LangChain & RAG (Retrieval-Augmented Generation) Large Language Models (LLMs) – e.g., Google Gemini, HuggingFace Transformers Machine Learning Frameworks – scikit-learn, TensorFlow, PyTorch, Keras Data Visualization & Analytics – Power BI, Plotly, Matplotlib, Seaborn SQL & Database Management Cloud Platforms & Deployment – Google Cloud Platform (GCP)**
+
+- 👨‍💻 All of my projects are available at [https://github.com/AyushMishra1006](https://github.com/AyushMishra1006)
+
+- 📫 How to reach me **ayushmishra0605@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-mishra-857123304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-mishra-857123304/" height="30" width="40" /></a>
 </p>
 
-<!-- Typing Effect for Name & Intro -->
-<h1 align="center">
-  <span class="typing">Hi 👋, I'm Ayush</span>
-</h1>
-<h3 align="center">
-  <span class="typing">Passionate Python developer & AI enthusiast. I build AI-powered tools & ML solutions.</span>
-</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<hr style="border:1px solid #4db8ff;">
-
-<!-- Gradient Section Headings -->
-<h2 style="background: linear-gradient(90deg, #ff6f61, #ffd700, #4db8ff); -webkit-background-clip: text; color: transparent;">
-🔭 Currently Working On
-</h2>
-<p>
-  <a href="https://github.com/AyushMishra1006/DocMind-AI-Powered-PDF-Summarizer" style="color:#ff6f61; font-weight:bold;">
-    DocMind-AI-Powered-PDF-Summarizer
-  </a> – AI-powered PDF summary tool
-</p>
-
-<h2 style="background: linear-gradient(90deg, #ff6f61, #ffd700, #4db8ff); -webkit-background-clip: text; color: transparent;">
-🌱 Currently Learning
-</h2>
-<p>
-Python LangChain, RAG LLMs (Google Gemini, HuggingFace), ML Frameworks (scikit-learn, TensorFlow, PyTorch, Keras), Data Viz (Power BI, Plotly, Seaborn), SQL, Cloud (GCP)
-</p>
-
-<h2 style="background: linear-gradient(90deg, #ff6f61, #ffd700, #4db8ff); -webkit-background-clip: text; color: transparent;">
-👨‍💻 Projects
-</h2>
-<p>Check all my projects: <a href="https://github.com/AyushMishra1006" style="color:#4db8ff; font-weight:bold;">GitHub Profile</a></p>
-
-<h2 style="background: linear-gradient(90deg, #ff6f61, #ffd700, #4db8ff); -webkit-background-clip: text; color: transparent;">
-📫 Contact Me
-</h2>
-<p>
-Email: <b>ayushmishra0605@gmail.com</b><br>
-LinkedIn: <a href="https://linkedin.com/in/ayush-mishra-857123304/" style="color:#ff6f61; font-weight:bold;">Ayush Mishra</a>
-</p>
-
-<h2 style="background: linear-gradient(90deg, #ff6f61, #ffd700, #4db8ff); -webkit-background-clip: text; color: transparent;">
-🛠️ Languages & Tools
-</h2>
-<p>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/PyTorch-EF4C4C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-77ACF1?style=for-the-badge&logo=seaborn&logoColor=white" />
-</p>
-
-<h2 style="background: linear-gradient(90deg, #ff6f61, #ffd700, #4db8ff); -webkit-background-clip: text; color: transparent;">
-📊 GitHub Stats
-</h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmishra1006&show_icons=true&layout=compact&theme=radical" />
-</p>
-
-<h2 style="background: linear-gradient(90deg, #ff6f61, #ffd700, #4db8ff); -webkit-background-clip: text; color: transparent;">
-🎮 Fun Section
-</h2>
-<p>
-Try my mini Python game here: <a href="https://replit.com/@AyushMishra1006" style="color:#4db8ff; font-weight:bold;">Snake Game</a>
-</p>
-
-<!-- Typing Animation CSS -->
-<style>
-.typing {
-  border-right: .15em solid #ff6f61;
-  white-space: nowrap;
-  overflow: hidden;
-  display: inline-block;
-  animation: typing 3s steps(40, end), blink .75s step-end infinite;
-  font-size: 2em;
-  font-weight: bold;
-  color: #4db8ff;
-}
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-@keyframes blink {
-  from, to { border-color: transparent }
-  50% { border-color: #ff6f61; }
-}
-</style>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmishra1006&show_icons=true&locale=en&layout=compact" alt="ayushmishra1006" /></p>
