@@ -49,5 +49,6 @@ Passionate Python developer and AI enthusiast. I build AI-powered tools, data-dr
 </p>
 
 
+![giphy](https://github.com/user-attachments/assets/25a75795-e322-48df-886e-d612a7dbc073)
 
 
