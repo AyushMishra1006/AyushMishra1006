@@ -1,45 +1,41 @@
 🌟 Ayush Mishra
+AI & Data Science Engineer | Python Developer | LLM & Automation Enthusiast
+<p align="center"> <img src="https://github.com/user-attachments/assets/25a75795-e322-48df-886e-d612a7dbc073" width="230"/> </p>
+🚀 About Me
 
-AI & Data Science Engineer | Python Developer | LLM & RAG Specialist
+I build AI-driven applications, automation pipelines, and data-centric solutions using Python, modern ML frameworks, and LLM ecosystem tools. My work focuses on combining algorithmic intelligence with real-world usability — from end-to-end machine learning workflows to AI-powered assistants.
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/25a75795-e322-48df-886e-d612a7dbc073" alt="fun GIF" width="250"/> </p>
+🔭 Current Focus
 
-I build intelligent systems, automation tools, and ML applications that convert real-world problems into scalable AI-powered solutions.
+DocMind – AI-Powered PDF Summarizer
+A smart document-understanding tool powered by LLMs, embeddings & RAG.
+👉 View Project
 
-🚀 What I’m Working On
+🌱 What I'm Exploring
 
-🔹 DocMind – AI PDF Summarizer
+⚙️ LLMs & Generative AI: LangChain, RAG, LLaMA, GPT architectures
 
-An end-to-end AI system integrating LLMs, embeddings, and RAG for fast, accurate document understanding.
+🧠 Deep Learning: PyTorch, TensorFlow, Keras
 
-🔍 Areas I’m Exploring
+📊 Data Visualization: Power BI, Plotly, Matplotlib, Seaborn
 
-LLMs & Generative AI – LangChain, RAG pipelines, Llama, Gemini
+☁️ Cloud: Google Cloud Platform (GCP)
 
-Deep Learning – PyTorch, TensorFlow, Keras
+🧩 AI Agents & Automation: CrewAI, LangGraph
 
-Data Engineering & Visualization – Power BI, Pandas, Plotly
+🧪 Projects & Work
 
-Cloud & Deployment – Google Cloud, FastAPI, Docker
+🔗 Explore all my repositories here:
+👉 GitHub Portfolio
 
-Frontend Basics – React (for AI-powered app interfaces)
+📬 Contact
 
-🧩 Featured Projects
+📧 ayushmishra0605@gmail.com
 
-🔗 GitHub Portfolio: Explore all my AI, automation, and ML projects
-👉 https://github.com/AyushMishra1006
-
-📬 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/ayush-mishra-857123304" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:ayushmishra0605@gmail.com"> <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/ayush-mishra-857123304" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:ayushmishra0605@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 🛠️ Tech Stack
-Languages & ML
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" /> </p>
-Data & Backend
-<p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-116149?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> </p>
-Frontend & Tools
-<p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
-📊 GitHub Insights
+<p align="center"> <img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/LLM-LangChain-4B0082?style=for-the-badge"/> <img src="https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb" /> <img src="https://img.shields.io/badge/MySQL-0F4C81?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" /> <img src="https://img.shields.io/badge/Seaborn-4C6EF5?style=for-the-badge" /> </p>
+📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmishra1006&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmishra1006&theme=tokyonight&hide_border=true" /> </p>
-✨ Developer Philosophy
-
-“Great AI isn’t just about code — it’s about creating systems that think, adapt, and deliver real impact.”
+<p align="center"> <strong>✨ “Code that solves a problem is good. Code that elevates an experience is great.” ✨</strong> </p>
