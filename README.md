@@ -20,7 +20,7 @@
 
 ## 🚀 What I'm Working On
 - 🔍 **DocMind — AI-Powered PDF Summarizer**  
-  *Building intelligent document processing using LLMs, RAG & LangChain.*
+  Building intelligent document processing using LLMs, RAG & LangChain.
 
 ## 🌱 What I'm Exploring
 - 🧠 **Large Language Models:** GPT, Gemini, BERT, LLaMA  
@@ -32,13 +32,13 @@
 ---
 
 ## 👨‍💻 Featured Work
-🔗 **GitHub Portfolio:** *Explore all projects*  
-👉 https://github.com/AyushMishra1006
+🔗 **GitHub Portfolio:**  
+https://github.com/AyushMishra1006
 
 ---
 
-## 📫 Contact Me
-📧 **ayushmishra0605@gmail.com**  
+## 📫 Connect With Me
+📧 **Email:** ayushmishra0605@gmail.com  
 🔗 **LinkedIn:** https://linkedin.com/in/ayush-mishra-857123304
 
 ---
@@ -82,11 +82,24 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmishra1006&layout=compact&theme=radical&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AyushMishra1006&show_icons=true&theme=radical" 
+    height="180" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmishra1006&theme=radical&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AyushMishra1006&theme=radical" 
+    height="180" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMishra1006&layout=compact&theme=radical" 
+    height="180" 
+  />
 </p>
 
 ---
