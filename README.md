@@ -55,34 +55,46 @@ $ mission --status
 
 <h2 align="center">🧠 Skill Matrix</h2>
 
-```yaml
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,mongodb,mysql,gcp,git,linux&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1800&pause=500&color=8E2DE2&center=true&vCenter=true&width=800&lines=Python+%7C+AI+%7C+Machine+Learning;LLMs+%7C+RAG+%7C+Data+Pipelines;Streamlit+%7C+OpenCV+%7C+Backend;Cloud+%7C+Databases+%7C+Deployment" />
+</p>
+yaml
 Core Language:
   - Python
 
 AI / ML:
-  - LangChain
-  - RAG Pipelines
-  - LLMs (Gemini, HuggingFace)
-  - TensorFlow
-  - PyTorch
-  - Keras
+
+* LangChain
+* RAG Pipelines
+* LLMs (Gemini, HuggingFace)
+* TensorFlow
+* PyTorch
+* Keras
 
 Data & Visualization:
-  - Pandas
-  - Matplotlib
-  - Seaborn
-  - Plotly
-  - Power BI
+
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+* Power BI
 
 Backend & Tools:
-  - Streamlit
-  - OpenCV
-  - MongoDB
-  - MySQL
+
+* Streamlit
+* OpenCV
+* MongoDB
+* MySQL
 
 Cloud:
-  - Google Cloud Platform
-```
+
+* Google Cloud Platform
+
+````
 
 ---
 
@@ -116,7 +128,7 @@ Cloud:
 [INFO] Optimizing LLM inference & latency
 [INFO] Designing scalable ML systems
 [INFO] Pushing code to GitHub daily
-```
+````
 
 <p align="center">
   <img src="https://github.com/DenverCoder1/github-readme-stats/raw/master/resources/animated-loading-bar.gif" width="300" />
@@ -213,16 +225,16 @@ Strengths:
 
 ---
 
-<!-- ================= SNAKE (END) ================= -->
+<!-- ================= GAME ZONE ================= -->
+
+<h2 align="center">🎮 Game Zone</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<!-- ================= SNAKE (END) ================= -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/assets/pacman.svg" />
 </p>
 
 ```python
