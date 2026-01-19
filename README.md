@@ -129,6 +129,56 @@ Cloud:
 
 <!-- ================= SYSTEM LOGS ================= -->
 
+<h2 align="center">🖥️ Live System Logs</h2>
+
+```log
+[INIT] ayush.ai booted successfully
+[INFO] Training RAG pipelines on custom documents
+[INFO] Building production-ready AI agents
+[INFO] Optimizing LLM inference & latency
+[INFO] Designing scalable ML systems
+[INFO] Pushing code to GitHub daily
+```
+
+<p align="center">
+  <img src="https://github.com/DenverCoder1/github-readme-stats/raw/master/resources/animated-loading-bar.gif" width="300" />
+</p>
+
+---
+
+<!-- ================= RESUME ================= -->
+
+<h2 align="center">📄 Resume</h2>
+
+<p align="center">
+  <a href="https://drive.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-8E2DE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- ================= RECRUITER MODE ================= -->
+
+<h2 align="center">🎯 Recruiter Mode</h2>
+
+```yaml
+Looking for:
+  - AI / ML Internships
+  - Data Science Roles
+  - Python Developer Roles
+  - Research Internships
+
+Strengths:
+  - End-to-end AI system building
+  - Strong Python + ML foundation
+  - Real-world project experience
+  - Clean, scalable code
+  - Rapid learner & problem solver
+```
+
+---
+
 <h2 align="center">🖥️ System Logs</h2>
 
 ```log
@@ -198,4 +248,5 @@ life()
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8E2DE2&height=120&section=footer"
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8E2DE2&height=120&section=footer" />
+</p>
