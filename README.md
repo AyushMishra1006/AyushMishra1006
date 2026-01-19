@@ -1,4 +1,4 @@
-<!-- ================= TERMINAL BOOT SEQUENCE ================= -->
+<!-- ================= NEON CYBER TERMINAL BOOT ================= -->
 
 ```bash
 $ boot --profile ayush
@@ -9,7 +9,11 @@ $ boot --profile ayush
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Mishra;Python+Developer+%26+AI+Enthusiast;I+build+AI-powered+products;Turning+ideas+into+intelligent+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=750&lines=booting+ayush.dev...;Python+Developer+%7C+AI+Engineer;LLMs+%7C+RAG+%7C+Data+Systems;Building+intelligent+products;Code.+Train.+Deploy.+Repeat." />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -192,4 +196,4 @@ def life():
 life()
 ```
 
-<h3 align="center">✨ Engineering intelligence. One line of code at a ti
+<h3 align="center">✨ Engineering intelligence. One line of code at a time. ✨</h3>
