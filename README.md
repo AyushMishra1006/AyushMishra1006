@@ -1,37 +1,18 @@
-<!-- ================= AI SYSTEM BANNER ================= -->
+<!-- ================= MINIMAL BANNER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:00F5FF&height=200&section=header&text=Ayush%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=120&section=header" />
 </p>
 
-<!-- ================= NEON CYBER TERMINAL BOOT ================= -->
+<!-- ================= NEON CYBER TERMINAL BOOT ================= --> Python modules...
 
-```bash
-$ boot --system ayush.ai
-[ OK ] Initializing neural core...
-[ OK ] Loading Python modules...
 [ OK ] Connecting to LLM cluster...
 [ OK ] Deploying developer profile...
+
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=750&lines=booting+ayush.dev...;Python+Developer+%7C+AI+Engineer;LLMs+%7C+RAG+%7C+Data+Systems;Building+intelligent+products;Code.+Train.+Deploy.+Repeat." />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<!-- ================= CODED IDENTITY ================= -->
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Ayush Mishra"
-        self.username = "AyushMishra1006"
-        self.stack = ["Python", "AI", "LLMs", "RAG", "Data Systems"]
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+welcome+to+Ayush%27s+GitHub+portfolio;I+build+AI-powered+systems;LLMs+%7C+RAG+%7C+Data+Intelligence;Projects+over+titles%2C+always;Scroll+down+to+see+my+work__init__(se", "Data Systems"]
         self.mindset = "Build. Break. Improve. Repeat."
 
     def who_am_i(self):
@@ -47,11 +28,7 @@ that scale from ideas to real-world impact ⚡
 </h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/25a75795-e322-48df-886e-d612a7dbc073" alt="fun GIF" width="250"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="280" alt="AI brain" />
+  <img src="https://github.com/us.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="280" alt="AI brain" />
 </p>
 
 ---
@@ -250,3 +227,11 @@ life()
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8E2DE2&height=120&section=footer" />
 </p>
+
+<!-- ================= SNAKE (END) ================= -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<!-- =
