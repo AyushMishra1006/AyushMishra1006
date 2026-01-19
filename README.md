@@ -1,15 +1,7 @@
 <!-- ================= NEON CYBER TERMINAL BOOT ================= -->
 
-```bash
-$ boot --system ayush.ai
-[ OK ] Initializing neural core...
-[ OK ] Loading Python modules...
-[ OK ] Connecting to LLM cluster...
-[ OK ] Deploying developer profile...
-```
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+this+is+Ayush%E2%80%99s+GitHub+portfolio;I+let+my+work+speak+for+itself;Building+AI-powered+systems;LLMs+%7C+RAG+%7C+Data+Intelligence;Scroll+down+to+explore+projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I%E2%80%99m+Ayush+Mishra;Python+Developer+%26+AI+Enthusiast;I+build+AI-powered+applications;Working+with+LLMs%2C+RAG+%26+Data+Systems;Welcome+to+my+GitHub+portfolio" />
 </p>
 
 ---
