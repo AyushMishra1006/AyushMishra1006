@@ -1,11 +1,17 @@
+<!-- ================= AI SYSTEM BANNER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:00F5FF&height=200&section=header&text=Ayush%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
 <!-- ================= NEON CYBER TERMINAL BOOT ================= -->
 
 ```bash
-$ boot --profile ayush
-[ OK ] Loading developer profile...
-[ OK ] Importing skills...
-[ OK ] Connecting to GitHub...
-[ OK ] AI modules loaded successfully
+$ boot --system ayush.ai
+[ OK ] Initializing neural core...
+[ OK ] Loading Python modules...
+[ OK ] Connecting to LLM cluster...
+[ OK ] Deploying developer profile...
 ```
 
 <p align="center">
@@ -21,50 +27,49 @@ $ boot --profile ayush
 <!-- ================= CODED IDENTITY ================= -->
 
 ```python
-class Developer:
+class AIEngineer:
     def __init__(self):
         self.name = "Ayush Mishra"
-        self.username = "ayushmishra1006"
-        self.role = "Python Developer & AI Enthusiast"
-        self.focus = [
-            "AI Systems",
-            "LLMs & RAG",
-            "Data Intelligence",
-            "Automation",
-            "Scalable Apps"
-        ]
+        self.username = "AyushMishra1006"
+        self.stack = ["Python", "AI", "LLMs", "RAG", "Data Systems"]
+        self.mindset = "Build. Break. Improve. Repeat."
 
-    def intro(self):
-        return f"🚀 {self.name} | {self.role}" 
+    def who_am_i(self):
+        return f"👨‍💻 {self.name} | AI Engineer"
 
-me = Developer()
-print(me.intro())
+me = AIEngineer()
+print(me.who_am_i())
 ```
 
 <h3 align="center" style="color:#D1C4E9;">
-I craft <b>AI-powered tools</b>, <b>data-driven applications</b>, and <b>ML solutions</b><br>
-that blend innovation with real-world impact ⚡
+I design <b>AI-powered systems</b>, <b>intelligent pipelines</b>, and <b>data-driven products</b><br>
+that scale from ideas to real-world impact ⚡
 </h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/25a75795-e322-48df-886e-d612a7dbc073" alt="fun GIF" width="250"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="280" alt="AI brain" />
+</p>
+
 ---
 
 <!-- ================= CURRENT MISSION ================= -->
 
-<h2 align="center">🎯 Current Mission</h2>
+<h2 align="center">🎯 Active Mission</h2>
 
 ```bash
-$ mission --active
+$ mission --status
 > Project : DocMind – AI-Powered PDF Summarizer
 > Engine  : OCR + RAG + LLMs (Gemini)
 > UI      : Streamlit
-> Status  : Actively improving
+> Goal    : Smarter document intelligence
+> Mode    : Continuous improvement
 ```
 
-🔭 **DocMind** → [GitHub Repo](https://github.com/AyushMishra1006/DocMind-AI-Powered-PDF-Summarizer)
+🔭 **DocMind Repo** → [https://github.com/AyushMishra1006/DocMind-AI-Powered-PDF-Summarizer](https://github.com/AyushMishra1006/DocMind-AI-Powered-PDF-Summarizer)
 
 ---
 
@@ -73,9 +78,8 @@ $ mission --active
 <h2 align="center">🧠 Skill Matrix</h2>
 
 ```yaml
-Programming:
+Core Language:
   - Python
-  - C++
 
 AI / ML:
   - LangChain
@@ -104,7 +108,7 @@ Cloud:
 
 ---
 
-<!-- ================= PROJECT CARDS ================= -->
+<!-- ================= PROJECTS ================= -->
 
 <h2 align="center">🧩 Featured Projects</h2>
 
@@ -112,30 +116,33 @@ Cloud:
 <tr>
 <td width="50%">
 <h3>📄 DocMind</h3>
-<p>AI-powered PDF summarizer using OCR + RAG + LLMs</p>
-<a href="https://github.com/AyushMishra1006/DocMind-AI-Powered-PDF-Summarizer">🔗 View Repo</a>
+<p>AI-powered PDF summarizer using OCR, RAG & LLMs</p>
 </td>
 <td width="50%">
-<h3>📊 ML & Data Science Projects</h3>
-<p>Predictive models, visual analytics & ML pipelines</p>
-<a href="https://github.com/AyushMishra1006">🔗 Explore</a>
+<h3>📊 ML & Data Science</h3>
+<p>Predictive models, analytics & ML pipelines</p>
 </td>
 </tr>
 </table>
 
 ---
 
+<!-- ================= SYSTEM LOGS ================= -->
+
+<h2 align="center">🖥️ System Logs</h2>
+
+```log
+[2026] Learning advanced RAG architectures
+[2026] Building production-ready AI apps
+[2026] Exploring scalable ML deployment
+[2026] Improving system design & performance
+```
+
+---
+
 <!-- ================= CONNECT ================= -->
 
-<h2 align="center">🌐 Connect With Me</h2>
-
-```json
-{
-  "email": "ayushmishra0605@gmail.com",
-  "linkedin": "ayush-mishra-857123304",
-  "github": "AyushMishra1006"
-}
-```
+<h2 align="center">🌐 Connect</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/ayush-mishra-857123304">
@@ -148,52 +155,47 @@ Cloud:
 
 ---
 
-<!-- ================= TOOL BELT ================= -->
+<!-- ================= STATS ================= -->
 
-<h2 align="center">🛠️ Tool Belt</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,mongodb,mysql,react,opencv,gcp,git,linux" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushMishra1006&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushMishra1006&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushMishra1006&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AyushMishra1006&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- ================= VISITOR ================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushmishra1006&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmishra1006&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushmishra1006&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://komarev.com/ghpvc/?username=AyushMishra1006&label=Profile%20Views&color=00F5FF&style=for-the-badge" />
 </p>
 
 ---
 
-<!-- ================= VISITOR COUNTER ================= -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushmishra1006&label=Profile%20Views&color=8E2DE2&style=for-the-badge" />
-</p>
-
----
-
-<!-- ================= FOOTER LOOP ================= -->
+<!-- ================= FOOTER ================= -->
 
 ```python
 def life():
     while True:
         learn()
         build()
-        break_limits()
+        evolve()
 
 life()
 ```
 
-<h3 align="center">✨ Engineering intelligence. One line of code at a time. ✨</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8E2DE2&height=120&section=footer"
