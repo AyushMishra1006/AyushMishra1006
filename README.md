@@ -136,18 +136,6 @@ Cloud:
 
 ---
 
-<!-- ================= RESUME ================= -->
-
-<h2 align="center">📄 Resume</h2>
-
-<p align="center">
-  <a href="https://drive.google.com" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-8E2DE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</p>
-
----
-
 <!-- ================= RECRUITER MODE ================= -->
 
 <h2 align="center">🎯 Recruiter Mode</h2>
@@ -195,27 +183,6 @@ Strengths:
 
 ---
 
-<!-- ================= STATS ================= -->
-
-<h2 align="center">📊 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushMishra1006&theme=react-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushMishra1006&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushMishra1006&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushMishra1006&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 <!-- ================= VISITOR ================= -->
 
