@@ -73,7 +73,7 @@ Building scalable, production-ready AI systems requires more than connecting API
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,supabase,mongodb,mysql,gcp,git,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,supabase,mongodb,mysql,gcp,git,linux&perline=9" />
 </p>
 
 ```yaml
@@ -82,23 +82,40 @@ AI & LLMs:
   - LLMs: Gemini 2.5 Flash, HuggingFace models
   - Embeddings: FastEmbed ONNX, bge-small-en-v1.5
   - Vector Search: semantic retrieval, cosine similarity, diversity caps
-  - Frameworks: LangChain
+  - Prompt Engineering
+  - LangChain
+  - Vector Databases: FAISS, Chroma
 
-Backend:
-  - FastAPI  (async, SSE streaming, rate limiting)
-  - Python   (primary language)
-  - Supabase PostgreSQL
-  - REST API design
+Machine Learning:
+  - Supervised:   Linear Regression, Logistic Regression, Decision Trees,
+                  Random Forest, SVM, XGBoost, KNN, Naive Bayes
+  - Unsupervised: K-Means, DBSCAN, PCA, t-SNE, Hierarchical Clustering
+  - Deep Learning: ANN, CNN, RNN, LSTM  (TensorFlow · PyTorch · Keras)
+  - EDA: feature engineering, correlation analysis, outlier detection,
+         data cleaning, statistical analysis, Pandas Profiling
 
-Data & ML:
+Backend & APIs:
+  - FastAPI  (async, REST, SSE streaming, rate limiting)
+  - REST API design & development
+  - WebSocket / SSE real-time streaming
+  - Pydantic, Uvicorn
+  - Streamlit
+  - Python  (primary language)
+
+Data & Visualization:
   - Pandas, NumPy, Scikit-learn
-  - TensorFlow, PyTorch, Keras
   - Matplotlib, Seaborn, Plotly, Power BI
+  - OpenCV
+
+Database:
+  - Supabase PostgreSQL
+  - MongoDB
+  - MySQL
 
 Tools & Cloud:
+  - Docker
   - Git, Linux
   - Google Cloud Platform
-  - MongoDB, MySQL
 ```
 
 ---
