@@ -23,8 +23,8 @@ print(me.what_i_do())
 ```
 
 <h3 align="center">
-I don't just build AI apps — I design <b>intelligent pipelines</b> with structured testing,<br>
-real telemetry, and data-backed decisions at every layer.
+I design <b>intelligent pipelines</b> with structured testing, real telemetry,<br>
+and data-backed decisions at every layer — built to scale, not just to demo.
 </h3>
 
 ---
@@ -56,17 +56,17 @@ $ nexus --status
 
 ---
 
-## 🧠 How I Engineer
+## 🧠 Engineering Principles
 
-Most people build AI apps by chaining APIs and shipping fast. I build differently:
+Building scalable, production-ready AI systems requires more than connecting APIs — it requires a methodology.
 
-| What I do | Why it matters |
-|-----------|----------------|
-| Test each component in isolation before integration | Bugs surface early — not after the whole system fails |
-| Record every decision with the data behind it | Architecture is reproducible and defensible |
-| Measure before optimising | Raised chunk size 450→750 chars after token distribution showed 115-token avg below retrieval floor |
-| Drop complexity when data says so | Tested RAPTOR (recursive abstractive clustering) — dropped it. Hierarchical parent-child delivers same quality at zero indexing cost |
-| Cap, don't remove | 31 queries of ArXiv telemetry → 10s hard cap instead of cutting the agent. Fast responses still contribute |
+| Principle | In practice |
+|-----------|-------------|
+| Component isolation before integration | Each layer (sources, chunking, embeddings, retrieval) tested and validated independently before assembly |
+| Data-backed architecture decisions | Chunk size raised 450→750 chars after token distribution showed 115-token avg below retrieval floor — measured, not guessed |
+| Measure before optimising | 31 queries of telemetry before setting any timeout cap. ArXiv averaged 12.1s — cap set at 10s based on data |
+| Simplicity over complexity | Tested RAPTOR (recursive abstractive clustering) — dropped it. Hierarchical parent-child delivers equivalent quality at zero indexing overhead |
+| Graceful degradation over hard failures | Sources that miss their cap are skipped cleanly. Pipeline continues with what it has — no crashes, no empty answers |
 
 ---
 
