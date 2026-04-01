@@ -1,176 +1,160 @@
-<!-- ================= NEON CYBER TERMINAL BOOT ================= -->
-
+<!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I%E2%80%99m+Ayush+Mishra;Python+Developer+%26+AI+Enthusiast;I+build+AI-powered+applications;Working+with+LLMs%2C+RAG+%26+Data+Systems;Welcome+to+my+GitHub+portfolio" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=860&lines=Hi%2C+I%27m+Ayush+Mishra;AI+%26+Backend+Engineer;I+build+production-grade+AI+systems;Multi-Agent+RAG+%7C+LLMs+%7C+FastAPI+%7C+Vector+Search;Every+decision+is+data-backed." />
 </p>
 
 ---
-
-<!-- ================= CODED IDENTITY ================= -->
 
 ```python
 class AIEngineer:
     def __init__(self):
-        self.name = "Ayush Mishra"
-        self.username = "AyushMishra1006"
-        self.stack = ["Python", "AI", "LLMs", "RAG", "Data Systems"]
-        self.mindset = "Build. Break. Improve. Repeat."
+        self.name     = "Ayush Mishra"
+        self.role     = "AI & Backend Engineer"
+        self.stack    = ["Python", "FastAPI", "RAG Pipelines", "Multi-Agent Systems",
+                         "Gemini", "FastEmbed", "Vector Search", "Supabase"]
+        self.approach = "Test in isolation. Measure everything. Ship what the data approves."
+        self.mindset  = "Build. Break. Improve. Repeat."
 
-    def who_am_i(self):
-        return f"👨‍💻 {self.name} | AI Engineer"
+    def what_i_do(self):
+        return "I design AI systems that are fast, reliable, and built the right way."
 
 me = AIEngineer()
-print(me.who_am_i())
+print(me.what_i_do())
 ```
 
-<h3 align="center" style="color:#D1C4E9;">
-I design <b>AI-powered systems</b>, <b>intelligent pipelines</b>, and <b>data-driven products</b><br>
-that scale from ideas to real-world impact ⚡
+<h3 align="center">
+I don't just build AI apps — I design <b>intelligent pipelines</b> with structured testing,<br>
+real telemetry, and data-backed decisions at every layer.
 </h3>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/25a75795-e322-48df-886e-d612a7dbc073" alt="fun GIF" width="250"/>
-</p>
-
 ---
 
-<!-- ================= CURRENT MISSION ================= -->
+## 🚀 Current Project — Nexus AI
 
-<h2 align="center">🎯 Active Mission</h2>
+**Multi-Agent Research Synthesis Engine** — a production-grade RAG pipeline that coordinates four specialised AI agents in parallel, each targeting a different knowledge source, then synthesises a single sourced, attributed answer via Gemini 2.5 Flash.
 
 ```bash
-$ mission --status
-> Project : DocMind – AI-Powered PDF Summarizer
-> Engine  : OCR + RAG + LLMs (Gemini)
-> UI      : Streamlit
-> Goal    : Smarter document intelligence
-> Mode    : Continuous improvement
+$ nexus --status
+
+  Architecture  :  4-Agent parallel RAG  (Wikipedia · ArXiv · Tavily Web · YouTube)
+  Pipeline      :  Query rewrite → Parallel fetch → Chunk → Embed → Retrieve → Stream
+  LLM           :  Gemini 2.5 Flash  (query rewriting + synthesis)
+  Embeddings    :  FastEmbed ONNX / bge-small-en-v1.5  (thread-safe, single instance)
+  Chunking      :  Hierarchical parent-child (Wiki) · Atomic (ArXiv) · Topic-shift (Web/YT)
+  Retrieval     :  Per-source semantic search → diversity cap → top-12 to LLM
+  Streaming     :  FastAPI + SSE → frontend typewriter render
+  Database      :  Supabase PostgreSQL  (query logs + user history)
+
+  Validated     :  34 queries  ·  91% GOOD quality  ·  ~33s end-to-end
+  Avg sim score :  0.78 across all chunks sent to LLM
+  Noise chunks  :  Zero reached LLM  (sim floor enforced across all 34 queries)
 ```
 
-🔭 **DocMind Repo** → [https://github.com/AyushMishra1006/DocMind-AI-Powered-PDF-Summarizer](https://github.com/AyushMishra1006/DocMind-AI-Powered-PDF-Summarizer)
+> Built through a **6-phase testing framework** — each component tested and approved in isolation before the next was assembled. Every architectural decision (chunk size, embedding model, retrieval strategy, timeout caps) is backed by measured data, not intuition.
+
+🔗 [**View Repository →**](https://github.com/AyushMishra1006/Nexus-AI)
 
 ---
 
-<!-- ================= SKILL MATRIX ================= -->
+## 🧠 How I Engineer
 
-<h2 align="center">🧠 Skill Matrix</h2>
+Most people build AI apps by chaining APIs and shipping fast. I build differently:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,mongodb,mysql,gcp,git,linux&perline=9" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1800&pause=500&color=8E2DE2&center=true&vCenter=true&width=800&lines=Python+%7C+AI+%7C+Machine+Learning;LLMs+%7C+RAG+%7C+Data+Pipelines;Streamlit+%7C+OpenCV+%7C+Backend;Cloud+%7C+Databases+%7C+Deployment" />
-</p>
-yaml
-Core Language:
-  - Python
-
-AI / ML:
-
-* LangChain
-* RAG Pipelines
-* LLMs (Gemini, HuggingFace)
-* TensorFlow
-* PyTorch
-* Keras
-
-Data & Visualization:
-
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly
-* Power BI
-
-Backend & Tools:
-
-* Streamlit
-* OpenCV
-* MongoDB
-* MySQL
-
-Cloud:
-
-* Google Cloud Platform
-
-````
+| What I do | Why it matters |
+|-----------|----------------|
+| Test each component in isolation before integration | Bugs surface early — not after the whole system fails |
+| Record every decision with the data behind it | Architecture is reproducible and defensible |
+| Measure before optimising | Raised chunk size 450→750 chars after token distribution showed 115-token avg below retrieval floor |
+| Drop complexity when data says so | Tested RAPTOR (recursive abstractive clustering) — dropped it. Hierarchical parent-child delivers same quality at zero indexing cost |
+| Cap, don't remove | 31 queries of ArXiv telemetry → 10s hard cap instead of cutting the agent. Fast responses still contribute |
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+## ⚡ Tech Stack
 
-<h2 align="center">🧩 Featured Projects</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,supabase,mongodb,mysql,gcp,git,linux&perline=8" />
+</p>
 
-<table align="center">
+```yaml
+AI & LLMs:
+  - RAG Pipelines  (multi-agent, production-grade)
+  - LLMs: Gemini 2.5 Flash, HuggingFace models
+  - Embeddings: FastEmbed ONNX, bge-small-en-v1.5
+  - Vector Search: semantic retrieval, cosine similarity, diversity caps
+  - Frameworks: LangChain
+
+Backend:
+  - FastAPI  (async, SSE streaming, rate limiting)
+  - Python   (primary language)
+  - Supabase PostgreSQL
+  - REST API design
+
+Data & ML:
+  - Pandas, NumPy, Scikit-learn
+  - TensorFlow, PyTorch, Keras
+  - Matplotlib, Seaborn, Plotly, Power BI
+
+Tools & Cloud:
+  - Git, Linux
+  - Google Cloud Platform
+  - MongoDB, MySQL
+```
+
+---
+
+## 🧩 Featured Projects
+
+<table>
 <tr>
-<td width="50%">
-<h3>📄 DocMind</h3>
-<p>AI-powered PDF summarizer using OCR, RAG & LLMs</p>
+<td width="55%">
+
+### 🔬 Nexus AI — Multi-Agent Research Engine
+Production-grade RAG pipeline. 4 specialised agents (Wikipedia, ArXiv, Web, YouTube) running in parallel. Built through a 6-phase testing framework with real telemetry and data-backed architecture decisions.
+
+**Results:** 91% GOOD quality · ~33s end-to-end · 34 queries validated · Zero noise chunks to LLM
+
+**Stack:** Python · FastAPI · Gemini · FastEmbed ONNX · Supabase · SSE Streaming
+
+🔗 [Repository](https://github.com/AyushMishra1006/Nexus-AI)
+
 </td>
-<td width="50%">
-<h3>📊 ML & Data Science</h3>
-<p>Predictive models, analytics & ML pipelines</p>
+<td width="45%">
+
+### 📄 DocMind — AI PDF Summarizer
+AI-powered document intelligence using OCR, RAG and LLMs. Upload a PDF, get a structured, sourced summary.
+
+**Stack:** Python · Streamlit · Gemini · RAG · OCR
+
+🔗 [Repository](https://github.com/AyushMishra1006/DocMind-AI-Powered-PDF-Summarizer)
+
 </td>
 </tr>
 </table>
 
 ---
 
-<!-- ================= SYSTEM LOGS ================= -->
-
-<h2 align="center">🖥️ Live System Logs</h2>
-
-```log
-[INIT] ayush.ai booted successfully
-[INFO] Training RAG pipelines on custom documents
-[INFO] Building production-ready AI agents
-[INFO] Optimizing LLM inference & latency
-[INFO] Designing scalable ML systems
-[INFO] Pushing code to GitHub daily
-````
-
-<p align="center">
-  <img src="https://github.com/DenverCoder1/github-readme-stats/raw/master/resources/animated-loading-bar.gif" width="300" />
-</p>
-
----
-
-<!-- ================= RECRUITER MODE ================= -->
-
-<h2 align="center">🎯 Recruiter Mode</h2>
+## 🎯 Open To
 
 ```yaml
-Looking for:
+Roles:
+  - AI Engineer
+  - Backend Engineer  (Python / FastAPI)
+  - ML Engineer
   - AI / ML Internships
-  - Data Science Roles
-  - Python Developer Roles
   - Research Internships
 
 Strengths:
-  - End-to-end AI system building
-  - Strong Python + ML foundation
-  - Real-world project experience
-  - Clean, scalable code
-  - Rapid learner & problem solver
+  - Production-grade AI system design
+  - Structured testing and validation methodology
+  - Real-world RAG pipeline engineering
+  - Data-backed decision making at every layer
+  - Fast learner — from concept to working system
 ```
 
 ---
 
-<h2 align="center">🖥️ System Logs</h2>
-
-```log
-[2026] Learning advanced RAG architectures
-[2026] Building production-ready AI apps
-[2026] Exploring scalable ML deployment
-[2026] Improving system design & performance
-```
-
----
-
-<!-- ================= CONNECT ================= -->
-
-<h2 align="center">🌐 Connect</h2>
+## 🌐 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/ayush-mishra-857123304">
@@ -183,33 +167,21 @@ Strengths:
 
 ---
 
+```python
+def life():
+    while True:
+        learn()
+        build()
+        measure()
+        improve()
 
-<!-- ================= VISITOR ================= -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyushMishra1006&label=Profile%20Views&color=00F5FF&style=for-the-badge" />
-</p>
-
----
-
-<!-- ================= GAME ZONE ================= -->
-
-<h2 align="center">🎮 Game Zone</h2>
+life()
+```
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/assets/pacman.svg" />
+  <img src="https://komarev.com/ghpvc/?username=AyushMishra1006&label=Profile+Views&color=00F5FF&style=for-the-badge" />
 </p>
-
-```python
-def life():
-    while True:
-        learn()
-        build()
-        evolve()
-
-life()
-```
