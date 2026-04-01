@@ -134,26 +134,6 @@ AI-powered document intelligence using OCR, RAG and LLMs. Upload a PDF, get a st
 
 ---
 
-## 🎯 Open To
-
-```yaml
-Roles:
-  - AI Engineer
-  - Backend Engineer  (Python / FastAPI)
-  - ML Engineer
-  - AI / ML Internships
-  - Research Internships
-
-Strengths:
-  - Production-grade AI system design
-  - Structured testing and validation methodology
-  - Real-world RAG pipeline engineering
-  - Data-backed decision making at every layer
-  - Fast learner — from concept to working system
-```
-
----
-
 ## 🌐 Connect
 
 <p align="center">
